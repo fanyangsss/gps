@@ -1,0 +1,8 @@
+prefix=/home/turtlebot/gps_ws/devel
+
+Name: gps
+Description: Description of gps
+Version: 0.0.0
+Cflags: -I/home/turtlebot/gps_ws/devel/include
+Libs: -L/home/turtlebot/gps_ws/devel/lib 
+Requires: message_runtime

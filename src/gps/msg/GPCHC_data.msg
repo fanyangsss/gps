@@ -1,0 +1,24 @@
+int32  GPSWeek
+int32  GPSTime
+float32  Heading
+float32  Pitch
+float32  Roll
+float32  gyrox
+float32  gyroy
+float32  gyroz
+float32  accx
+float32  accy
+float32  accz
+float32  Lattitude
+float32  Longitude
+float32  Altitude
+float32  Ve
+float32  Vn
+float32  Vu
+float32  V
+int32  NSV1
+int32  NSV2
+int32  Status
+int32  Age
+int32  Warming
+    

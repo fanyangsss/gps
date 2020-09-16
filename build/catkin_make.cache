@@ -1,0 +1,2 @@
+gps
+-DCATKIN_DEVEL_PREFIX=/home/turtlebot/gps_ws/devel -DCMAKE_INSTALL_PREFIX=/home/turtlebot/gps_ws/install -G Unix Makefiles
